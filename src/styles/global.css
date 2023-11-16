@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&display=swap');
+  
+.bgv-img{
+  background-image: url(../images//layer.png);
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+  
+  
+  
