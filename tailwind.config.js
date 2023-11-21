@@ -13,6 +13,7 @@ module.exports = {
       },
       fontFamily: {
         josefin: ["Josefin Sans", "sans-serif"],
+        lexend: ['Lexend','sans-serif'],
       },
     },
   },
